@@ -1,0 +1,39 @@
+_repo: Hung-Lou-Meng-or-the-Dream-of-the-Red-Chamber-a-Chinese-Novel-Book-I_9603
+_version: 0.0.1
+alternative_title: Hong lou meng. English
+contributor:
+  translator:
+    agent_name: Joly, H. Bencraft
+    alias: Joly, Henry Bencraft
+    birthdate: 1857
+    deathdate: 1898
+    gutenberg_agent_id: '3093'
+    url: http://www.gutenberg.org/2009/agents/3093
+creator:
+  author:
+    agent_name: Cao, Xueqin
+    alias: 曹雪芹
+    birthdate: 1715
+    deathdate: 1763
+    gutenberg_agent_id: '3092'
+    url: http://www.gutenberg.org/2009/agents/3092
+    wikipedia: http://en.wikipedia.org/wiki/Cao_Xueqin
+description: ''
+gutenberg_issued: '2006-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9603'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Autobiographical fiction'
+- !lcsh 'Cao, Xueqin, approximately 1717-1763 -- Fiction'
+- !lcsh 'Domestic fiction'
+- !lcsh 'China -- History -- Qing dynasty, 1644-1912 -- Fiction'
+- !lcc 'PL'
+- !lcsh 'Jia, Baoyu (Fictitious character) -- Fiction'
+- GITenberg
+title: Hung Lou Meng, or, the Dream of the Red Chamber, a Chinese Novel, Book I
+url: http://www.gutenberg.org/ebooks/9603
